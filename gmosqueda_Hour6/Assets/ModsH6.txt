@@ -1,0 +1,22 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+A. Left side made a very easy to make it right side is a lot harder but are shortcuts when using the players momentum.
+
+
+B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.) red and wall got the same as lava wil send you back to spawnpoint also made a false FinalZone to trick the player
+
+
+
+C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump) made a hard neon in the middle of the longer 
+
+
+
+D. Modify the sky and textures to create a world based on your theme. made the the light a little big darker make it more like if ash was in the air
+
+
