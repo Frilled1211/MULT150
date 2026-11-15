@@ -188,6 +188,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefab: {fileID: 12978247}
+  streetLamp: {fileID: 12978247}
 --- !u!1001 &797699569
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -201,7 +202,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2526798668950485088, guid: fcbfc4e6db6785f4e84f512aaffea121, type: 3}
       propertyPath: m_Name
-      value: street lamp 1
+      value: streetLamp
       objectReference: {fileID: 0}
     - target: {fileID: 8042096597787374507, guid: fcbfc4e6db6785f4e84f512aaffea121, type: 3}
       propertyPath: m_Materials.Array.data[0]
